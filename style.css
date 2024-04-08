@@ -45,3 +45,10 @@ h5 {
     background-image: linear-gradient(to bottom, #131f26, #3498db);
     text-decoration: none;
   }
+ .introp {
+    text-align: center;
+    font-size: 15px;
+ }
+ .signin {
+    text-align: center;
+ }
