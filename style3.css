@@ -10,9 +10,11 @@ body{
     background-attachment: fixed;
 }
 .your {
-    background-color:#FFCECE;
-    border-radius: 20px;
-    width: 100%;
+    background-color:#beebe9;
+    width: 90%;
     height: 90%;
     color: black;
+}
+h2 {
+    text-align: center;
 }
